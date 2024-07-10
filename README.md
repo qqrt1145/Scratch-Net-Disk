@@ -1,23 +1,17 @@
 # qqtuomiao的个人网盘
 
 #### 介绍
-勉强拿来当网盘
 
-#### 软件架构
-软件架构说明
+存放Scratch作品
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+使用的编辑器 turbowarp 链接:https://turbowarp.org/editor
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+一般分为三个类型
+初始项目文件（sb3）
+打包好的应用(apk)
+以及快捷打开（html）
 
 #### 参与贡献
 
