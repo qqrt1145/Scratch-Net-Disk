@@ -6,6 +6,8 @@
 
 使用的编辑器 turbowarp 链接:https://turbowarp.org/editor
 
+### 前往作品发行板:[点此跳转](https://gitee.com/qqtuomiao/qqtuomiaoPersonal-network-disk/releases)
+
 ##  **使用说明** 
 
   一般分为三个类型
